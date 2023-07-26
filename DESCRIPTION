@@ -22,7 +22,7 @@ Authors@R:
            family = "Utari",
            middle = "Devi",
            email = "21611130@students.uii.ac.id",
-           role = c("aut", "cre"),
+           role = c("aut", "cre")),
     person(given = "Azra",
            family = "Khansa",
            middle = "Fidela",
